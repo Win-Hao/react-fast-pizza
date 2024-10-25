@@ -26,7 +26,7 @@
 
 项目拉取后
 
-```
-运行 npm install
-运行 npm run dev
+```bash
+npm install
+npm run dev
 ```
